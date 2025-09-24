@@ -64,4 +64,4 @@ coverage-final.json
 # Misc
 *.pem
 *.key
-*.crt
+*.crt.env
